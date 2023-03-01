@@ -1,0 +1,2 @@
+guests,address,companyAddress,companyEmailAddress,companyName,companyPhoneNumber,companyPostalCode,companyYomigana,emailAddress,fullName,MEMO,mobilePhoneNumber,OCCUPATION,phoneNumberLandline,postalCode,workplaceAddress,workplaceEmailAddress,workplaceName,workplaceNameYomigana,workplacePhoneAddress,YOMIGANA
+room_bookings,memo

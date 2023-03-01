@@ -5,7 +5,7 @@ class Config:
     DB_NAME = "pmsproddb"
     DB_PORT_NUMBER = "5432"
     DB_USER_NAME = "pmsprod"
-    DB_PASSWORD = "i]o2SS(ydxv~jj<,X6G%,J?PMC1_mDSw"
+    DB_PASSWORD = ""
     OUTPUT_FILE_NAME = "db_dump.sql"
     CSV_PATH = "output/csv/"
     SQL_PATH = "output/sql/"

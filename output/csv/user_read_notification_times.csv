@@ -1,0 +1,8 @@
+id,hotelId,userId,type,readAt,createdAt,updatedAt,deletedAt,createdBy,updatedBy,deletedBy,inntoDataId
+22,3,'e58ea8e6-0b44-4405-b02a-db5b8615373e','temporary_booking','2023-02-15 14:56:21.567000+09:00','2023-02-15 14:56:21.567673+09:00','2023-02-15 14:56:21.567673+09:00',None,None,None,None,None
+23,3,'e58ea8e6-0b44-4405-b02a-db5b8615373e','room_booking_change_status','2023-02-15 16:15:25.104000+09:00','2023-02-15 16:15:25.105455+09:00','2023-02-15 16:15:25.105455+09:00',None,None,None,None,None
+25,3,'6a303535-8d9e-49bd-ae92-dc2bcb2d3c56','admin_notification','2023-02-21 10:51:44.145000+09:00','2023-02-21 10:51:44.144381+09:00','2023-02-21 10:51:44.144381+09:00',None,None,None,None,None
+24,3,'6a303535-8d9e-49bd-ae92-dc2bcb2d3c56','room_booking_change_status','2023-02-21 10:51:44.585000+09:00','2023-02-21 10:51:43.383599+09:00','2023-02-21 10:51:43.383599+09:00',None,None,None,None,None
+26,3,'6ff5dbd0-e426-44a3-bcb2-96bbab931058','admin_notification','2023-02-28 13:48:24.494000+09:00','2023-02-28 11:11:50.767245+09:00','2023-02-28 11:11:50.767245+09:00',None,None,None,None,None
+21,3,'6ff5dbd0-e426-44a3-bcb2-96bbab931058','room_booking_change_status','2023-02-28 13:54:04.022000+09:00','2023-02-15 13:37:31.526429+09:00','2023-02-15 13:37:31.526429+09:00',None,None,None,None,None
+27,3,'889ff7be-3a4f-4ce1-a4a1-b6f022f611aa','room_booking_change_status','2023-02-28 20:08:55.329000+09:00','2023-02-28 20:08:55.330538+09:00','2023-02-28 20:08:55.330538+09:00',None,None,None,None,None
